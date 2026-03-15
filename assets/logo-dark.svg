@@ -1,0 +1,61 @@
+<svg width="300" height="80" viewBox="0 0 300 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Water waves icon -->
+  <g id="icon">
+    <!-- Wave 1 -->
+    <path d="M15 25C20 25 20 30 25 30C30 30 30 25 35 25C40 25 40 30 45 30" 
+          stroke="#5DADE2" 
+          stroke-width="3" 
+          stroke-linecap="round" 
+          fill="none"/>
+    
+    <!-- Wave 2 -->
+    <path d="M15 35C20 35 20 40 25 40C30 40 30 35 35 35C40 35 40 40 45 40" 
+          stroke="#5DADE2" 
+          stroke-width="3" 
+          stroke-linecap="round" 
+          fill="none"/>
+    
+    <!-- Wave 3 -->
+    <path d="M15 45C20 45 20 50 25 50C30 50 30 45 35 45C40 45 40 50 45 50" 
+          stroke="#5DADE2" 
+          stroke-width="3" 
+          stroke-linecap="round" 
+          fill="none"/>
+    
+    <!-- Code brackets -->
+    <path d="M10 20 L5 30 L10 40" 
+          stroke="#ECF0F1" 
+          stroke-width="3" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          fill="none"/>
+    <path d="M50 20 L55 30 L50 40" 
+          stroke="#ECF0F1" 
+          stroke-width="3" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          fill="none"/>
+  </g>
+  
+  <!-- Text -->
+  <g id="text">
+    <!-- RíoCode -->
+    <text x="75" y="45" 
+          font-family="'Inter', 'Helvetica', 'Arial', sans-serif" 
+          font-size="32" 
+          font-weight="700" 
+          fill="#ECF0F1">
+      Río<tspan fill="#5DADE2">Code</tspan>
+    </text>
+    
+    <!-- Tagline -->
+    <text x="75" y="62" 
+          font-family="'Inter', 'Helvetica', 'Arial', sans-serif" 
+          font-size="10" 
+          font-weight="400" 
+          fill="#BDC3C7"
+          letter-spacing="1">
+      FROM THE RÍO NEGRO TO THE WORLD
+    </text>
+  </g>
+</svg>
