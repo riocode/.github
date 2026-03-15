@@ -1,5 +1,7 @@
 <div align="center">
 
+![RíoCode Logo](assets/logo-horizontal.svg)
+
 # 🌊 RíoCode
 
 ### Code Flows, Solutions Grow
