@@ -1,0 +1,44 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle (optional) -->
+  <circle cx="60" cy="60" r="55" fill="#F8F9FA"/>
+  
+  <!-- Water waves -->
+  <g transform="translate(30, 35)">
+    <!-- Wave 1 -->
+    <path d="M5 10C12 10 12 18 20 18C28 18 28 10 35 10C42 10 42 18 50 18" 
+          stroke="#3498DB" 
+          stroke-width="4" 
+          stroke-linecap="round" 
+          fill="none"/>
+    
+    <!-- Wave 2 -->
+    <path d="M5 25C12 25 12 33 20 33C28 33 28 25 35 25C42 25 42 33 50 33" 
+          stroke="#3498DB" 
+          stroke-width="4" 
+          stroke-linecap="round" 
+          fill="none"/>
+    
+    <!-- Wave 3 -->
+    <path d="M5 40C12 40 12 48 20 48C28 48 28 40 35 40C42 40 42 48 50 48" 
+          stroke="#3498DB" 
+          stroke-width="4" 
+          stroke-linecap="round" 
+          fill="none"/>
+  </g>
+  
+  <!-- Code brackets -->
+  <g>
+    <path d="M20 30 L10 60 L20 90" 
+          stroke="#2C3E50" 
+          stroke-width="5" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          fill="none"/>
+    <path d="M100 30 L110 60 L100 90" 
+          stroke="#2C3E50" 
+          stroke-width="5" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          fill="none"/>
+  </g>
+</svg>
