@@ -1,0 +1,54 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#2C3E50" rx="80"/>
+  
+  <!-- Water waves (centered) -->
+  <g transform="translate(130, 180)">
+    <!-- Wave 1 -->
+    <path d="M20 30C45 30 45 50 70 50C95 50 95 30 120 30C145 30 145 50 170 50C195 50 195 30 220 30" 
+          stroke="#3498DB" 
+          stroke-width="12" 
+          stroke-linecap="round" 
+          fill="none"/>
+    
+    <!-- Wave 2 -->
+    <path d="M20 80C45 80 45 100 70 100C95 100 95 80 120 80C145 80 145 100 170 100C195 100 195 80 220 80" 
+          stroke="#3498DB" 
+          stroke-width="12" 
+          stroke-linecap="round" 
+          fill="none"/>
+    
+    <!-- Wave 3 -->
+    <path d="M20 130C45 130 45 150 70 150C95 150 95 130 120 130C145 130 145 150 170 150C195 150 195 130 220 130" 
+          stroke="#3498DB" 
+          stroke-width="12" 
+          stroke-linecap="round" 
+          fill="none"/>
+  </g>
+  
+  <!-- Code brackets -->
+  <g>
+    <path d="M80 160 L40 256 L80 352" 
+          stroke="#ECF0F1" 
+          stroke-width="16" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          fill="none"/>
+    <path d="M432 160 L472 256 L432 352" 
+          stroke="#ECF0F1" 
+          stroke-width="16" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" 
+          fill="none"/>
+  </g>
+  
+  <!-- RC monogram (optional) -->
+  <text x="256" y="430" 
+        text-anchor="middle"
+        font-family="'Inter', 'Helvetica', 'Arial', sans-serif" 
+        font-size="48" 
+        font-weight="700" 
+        fill="#ECF0F1">
+    RC
+  </text>
+</svg>
