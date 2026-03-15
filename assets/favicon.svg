@@ -1,0 +1,23 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#2C3E50" rx="4"/>
+  
+  <!-- Simplified waves -->
+  <g>
+    <path d="M6 10C8 10 8 12 10 12C12 12 12 10 14 10C16 10 16 12 18 12C20 12 20 10 22 10C24 10 24 12 26 12" 
+          stroke="#3498DB" 
+          stroke-width="2" 
+          stroke-linecap="round" 
+          fill="none"/>
+    <path d="M6 16C8 16 8 18 10 18C12 18 12 16 14 16C16 16 16 18 18 18C20 18 20 16 22 16C24 16 24 18 26 18" 
+          stroke="#3498DB" 
+          stroke-width="2" 
+          stroke-linecap="round" 
+          fill="none"/>
+    <path d="M6 22C8 22 8 24 10 24C12 24 12 22 14 22C16 22 16 24 18 24C20 24 20 22 22 22C24 22 24 24 26 24" 
+          stroke="#3498DB" 
+          stroke-width="2" 
+          stroke-linecap="round" 
+          fill="none"/>
+  </g>
+</svg>
